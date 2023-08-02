@@ -1,4 +1,4 @@
-## End to End Machine Learning Project
+## End to End Machine Learning Project with Azure Deployment
 #AWS Deployment
 
 docker build -t testdockergshah.azurecr.io/mltest:latest .
